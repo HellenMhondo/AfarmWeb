@@ -4624,7 +4624,7 @@ img{
 .main-footer{
 	position:relative;
 	padding:95px 0px 0px;
-	background-color: #0B6C1E;
+	background-color: #000000;
 }
 
 .main-footer:before{
@@ -4634,7 +4634,7 @@ img{
 	bottom:0px;
 	width:543px;
 	height:368px;
-	background:url(../images/icons/footer-pattern-2.png) no-repeat;
+	background:url(../images/icons/footer-pattern-4.png) no-repeat;
 }
 
 .main-footer:after{
@@ -4644,7 +4644,7 @@ img{
 	top:0px;
 	width:505px;
 	height:334px;
-	background:url(../images/icons/footer-pattern-1.png) no-repeat;
+	background:url(../images/icons/footer-pattern-3.png) no-repeat;
 }
 
 .main-footer .footer-widget{
